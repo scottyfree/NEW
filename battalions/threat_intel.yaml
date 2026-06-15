@@ -1,0 +1,12 @@
+battalion: ThreatIntelligence
+status: ACTIVE
+phase: "2"
+role: Internal Security Corps
+responsibilities:
+  - Event Bus ingestion
+  - Risk scoring
+  - SecurityMemory updates
+  - Human-approval loop
+endpoint: /event and /security
+callable: true
+notes: Fully operational and integrated.

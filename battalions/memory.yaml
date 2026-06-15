@@ -1,0 +1,24 @@
+battalion: Memory
+status: "FULLY IMPLEMENTED - NOT DEPLOYED"
+phase: "4"
+role: Cognitive Memory Corps
+subsystems:
+  - entity_extractor.py
+  - graph_engine.py
+  - embedding.py
+  - pruning.py
+  - retrieval.py
+  - memory_engine.tick()
+responsibilities:
+  - Entity extraction
+  - Semantic graph maintenance
+  - Embedding generation
+  - Causal edge creation
+  - Memory pruning
+  - "Retrieval (FTS + vector + graph + RRF)"
+  - Tick-cycle orchestration
+endpoint: null
+callable: false
+notes: >
+  Tick not wired into the cognition loop. No endpoints exposed.
+  Battalion is armed but cold.

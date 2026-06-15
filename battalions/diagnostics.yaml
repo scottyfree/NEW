@@ -1,0 +1,12 @@
+battalion: Diagnostics
+status: ACTIVE
+phase: "1-2"
+role: Systems Engineering Corps
+responsibilities:
+  - Hardware probing
+  - Container/service health monitoring
+  - Incident detection
+  - Recovery triggers
+endpoint: /diagnostics
+callable: true
+notes: Stable, callable, fully integrated.

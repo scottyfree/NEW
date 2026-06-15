@@ -1,0 +1,12 @@
+battalion: Recovery
+status: ACTIVE
+phase: "3"
+role: Emergency Response Corps
+responsibilities:
+  - Boot Sentinel
+  - Chain of Trust
+  - Recovery Console
+  - Safe Boot UI
+endpoint: /boot_status
+callable: true
+notes: Stable and callable.

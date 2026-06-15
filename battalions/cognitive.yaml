@@ -1,0 +1,13 @@
+battalion: Cognitive
+status: NOT ACTIVE
+phase: "5"
+role: Strategic Reasoning Corps
+responsibilities:
+  - Multi-step reasoning
+  - Planning
+  - Self-reflection
+  - Autonomous task decomposition
+  - Long-term strategy
+endpoint: null
+callable: false
+notes: Reserved for Phase 5. Do not activate.
